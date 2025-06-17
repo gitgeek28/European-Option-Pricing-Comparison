@@ -32,7 +32,7 @@ This project aims to:
 
 ## 🛠 Tech Stack
 
-- Python 🐍
+- Python 
 - NumPy, Pandas
 - Matplotlib
 - yFinance
@@ -55,7 +55,9 @@ This project aims to:
 
 ## 📁 Project Structure
 📦 Option Pricing Project
+
 ├── European_Option_Pricing_Comparison.ipynb # Main project notebook
+
 ├── README.md # This file
 
 ---
