@@ -1,6 +1,6 @@
 # 📈 Comparative Analysis of European Option Pricing using Binomial Trees and Black Scholes Model
 
-Welcome to our Finclub Summer 2025 project! This repository presents a comparative study of two foundational models used in European option pricing: the **Binomial Tree model** and the **Black-Scholes closed-form formula**.
+This repository presents a comparative study of two foundational models used in European option pricing: the **Binomial Tree model** and the **Black-Scholes closed-form formula**.
 
 ---
 
